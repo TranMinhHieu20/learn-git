@@ -8,3 +8,6 @@ body{
 div{
     color: red;
 }
+h1,p,div{
+    color: white;
+}
